@@ -1,2 +1,2 @@
 # Management
-Repository of Management
+Management's Repository
