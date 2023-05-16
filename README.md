@@ -1,2 +1,2 @@
-# management
+# Management
 Repository of Management
