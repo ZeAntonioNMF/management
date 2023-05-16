@@ -1,2 +1,0 @@
-# Management
-Management's Repository
