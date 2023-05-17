@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-05-17T13:28:03.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="Wt36YzkNIzr6zo51isid" version="21.2.8" type="device">
+  <diagram name="Página-1" id="BU73tg2qto8is5RJjkT3">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
+          <mxGeometry x="560" y="410" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
+          <mxGeometry x="650" y="410" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" parent="1" vertex="1">
+          <mxGeometry x="280" y="190" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Container_Instances.svg;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Container_Registries.svg;" parent="1" vertex="1">
+          <mxGeometry x="280" y="392" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfgcU2tgYdLF8kGfxJ9-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes_Services.svg;" parent="1" vertex="1">
+          <mxGeometry x="280" y="480" width="50" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
